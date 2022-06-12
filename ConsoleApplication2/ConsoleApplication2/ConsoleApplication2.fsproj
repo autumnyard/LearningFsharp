@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Practices\ListExists.fs" />
     <Compile Include="WinterInMere.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
